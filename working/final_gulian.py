@@ -485,8 +485,8 @@ def reStart():
         pass
 
 
-api_key = "4ZlklEkP3tukyfak8WeYyhQVTDRcmuRL0tWzAqMLRDgQMEj50KMEOq7HSC34fqWZ"
-api_secret = "lLFmGxsEAOe6PTSQGcM0M2b7vqZaVVG8Qs0o0t3iOa6RKpZXGnF3V0hcjKipu6dI"
+api_key = ""
+api_secret = ""
 client = Client(api_key, api_secret,{'timeout': 60})
 
 no_of_coins = 6
